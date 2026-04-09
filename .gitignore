@@ -1,0 +1,11 @@
+data
+Debug
+Release
+.settings
+.cproject
+.project
+.settings
+.vscode
+*.exe
+result.json
+.DS_Store
