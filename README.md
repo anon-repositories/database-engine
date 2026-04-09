@@ -26,7 +26,7 @@ gcc src/tests/test_buffer_requests.c -o database -Wall -Wextra
 |`-DBLOCK_SIZE`  |Sets block size      |`gcc (...) -DBLOCK_SIZE=8192` |
 |`-DBUFFER_SIZE` |Sets buffer size     |`gcc (...) -DBUFFER_SIZE=100000` |                 
 
-> **Note:** Use [db_config.h](https://github.com/anon-repositories/database-engine/blob/master/src/dbms/db_config.h). If you don't want to use these options
+> **Note:** Use [db_config.h](https://github.com/anon-repositories/database-engine/blob/main/src/dbms/db_config.h). If you don't want to use these options
 
 #### Buffer Replacement Policies Extra Options
 
