@@ -58,7 +58,6 @@ gcc src/tests/test_buffer_requests.c -o database -Wall -Wextra
 |`-DGASA` | Ghost buffer Assisted and Self-tuning Algorithm (GASA)* |`gcc (...) -DGASA` |
 |`-SCMBP` | SCMBP-SCCW* |`gcc (...) -SCMBP` |
 
-> **Note:** Use [db_kernel.h](https://github.com/anon-repositories/database-engine/blob/master/src/dbms/db_kernel.h). If you don't want to use these options
+> **Note:** Use [db_kernel.h](https://github.com/anon-repositories/database-engine/blob/main/src/dbms/db_kernel.h). If you don't want to use these options
 
 > 
-> [Project Activities](https://github.com/anon-repositories/database-engine/projects/1?fullscreen=true)
